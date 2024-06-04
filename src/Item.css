@@ -1,0 +1,10 @@
+.card{
+  width: 18rem;
+  display: inline-table;
+  margin-top: 50px;
+  height: 250px;
+}
+.cardImg{
+  width: 300px;
+  height: 200px;
+}
