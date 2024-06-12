@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+.btnAddToShop{
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+}
+.btnShowCart{
+  position: absolute;
+  top: 0;
+  right:  0;
+
+}
